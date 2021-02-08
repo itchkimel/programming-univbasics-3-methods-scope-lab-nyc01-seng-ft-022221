@@ -13,8 +13,8 @@ def link
   puts status
 end
 
-def all_phrases (0,1,2) 
-  all_phrases = 0,1,2
+def all_phrases 
+  puts mario
+  puts toadstool
+  puts link
 end
-
- puts all_phrases mario, toadstool, link
